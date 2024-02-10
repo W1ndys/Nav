@@ -2,12 +2,12 @@ favicon: /img/logo/icon.jpg
 banner: /images/webstack_banner_cn.png
 
 logo:
-  expanded: /img/logo/各种尺寸/72.png
-  collapsed: /img/logo/各种尺寸/72.png
-  dark: /img/logo/各种尺寸/72.png
+  expanded: /img/logo/各种尺寸/48.png
+  collapsed: /img/logo/各种尺寸/48.png
+  dark: /img/logo/各种尺寸/48.png
 
 flag:
-  - name: Chinese 
+  - name: Chinese
     default: true
     icon: flag-cn
     index: /index.html
@@ -83,12 +83,12 @@ my:
 qfnu:
   - name: 曲阜师范大学
     url: https://www.qfnu.edu.cn/#/
-    img: https://q1.qlogo.cn/g?b=qq&nk=1623557727&s=720#/
+    img: https://q1.qlogo.cn/g?b=qq&nk=1623557647&s=640#/
     description: 曲阜师范大学官网
 
   - name: 曲阜师范大学网络空间安全学院
     url: https://cyber.qfnu.edu.cn/
-    img: https://q1.qlogo.cn/g?b=qq&nk=3309083558&s=720#/
+    img: https://q1.qlogo.cn/g?b=qq&nk=3309083558&s=640#/
     description: 曲阜师范大学网络空间安全学院官网
 
   - name: 曲阜师范大学图书馆预约系统
@@ -103,7 +103,7 @@ qfnu:
 
   - name: 曲阜师范大学教务系统
     url: http://ids.qfnu.edu.cn/authserver/login?service=http%3A%2F%2Fzhjw.qfnu.edu.cn%2Fsso.jsp#/
-    img: https://q1.qlogo.cn/g?b=qq&nk=1623557727&s=720#/
+    img: https://q1.qlogo.cn/g?b=qq&nk=1623557647&s=640#/
     description: 曲阜师范大学教务系统登陆入口
 
   - name: FIF口语训练平台
@@ -136,10 +136,10 @@ qfnu:
     img: https://tse1-mm.cn.bing.net/th/id/OIP-C.8_75aRovTdF0Zc3W04GpUQHaHa?rs=1&pid=ImgDetMain
     description: 大学生致死软件
 
-  - name: 学习通刷课脚本嘎嘎好使
+  - name: 学习通刷课脚本
     url: https://blog.w1ndys.top/posts/12c45bcf
     img: https://tse1-mm.cn.bing.net/th/id/OIP-C.8_75aRovTdF0Zc3W04GpUQHaHa?rs=1&pid=ImgDetMain
-    description: 其实我就是天克左边那位网站
+    description: 大学生救活脚本
 
   - name: PubScholar公益学术平台
     url: https://pubscholar.cn/
@@ -148,7 +148,7 @@ qfnu:
 
   - name: iWrite写作系统
     url: https://iwrite.unipus.cn/login#/
-    img: https://ts1.cn.mm.bing.net/th/id/R-C.29b7c637d0e32c2251b15e492fba7cb9?rik=AprJLuudx1%2b%2feg&riu=http%3a%2f%2fimg.mp.itc.cn%2fupload%2f20170703%2f72ba7dee4d2845bc8682b9f601e12c7e_th.jpg&ehk=xlUcy2FYNa%2bDw63l1zYBhbUD62ftqv4YDC7a%2feBSxlg%3d&risl=&pid=ImgRaw&r=0
+    img: https://ts1.cn.mm.bing.net/th/id/R-C.29b7c637d0e32c2251b15e492fba7cb9?rik=AprJLuudx1%2b%2feg&riu=http%3a%2f%2fimg.mp.itc.cn%2fupload%2f20170703%2f64ba7dee4d2845bc8682b9f601e12c7e_th.jpg&ehk=xlUcy2FYNa%2bDw63l1zYBhbUD62ftqv4YDC7a%2feBSxlg%3d&risl=&pid=ImgRaw&r=0
     description: 大学生s因之一
 
   - name: 中国教育干部网络学院
