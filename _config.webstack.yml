@@ -2,12 +2,12 @@ favicon: /img/logo/icon.jpg
 banner: /images/webstack_banner_cn.png
 
 logo:
-  expanded: /img/logo/j/whiten.png
-  collapsed: /img/logo/j/whiten.png
-  dark: /img/logo/j/blackn.png
+  expanded: /img/logo/各种尺寸/72.png
+  collapsed: /img/logo/各种尺寸/72.png
+  dark: /img/logo/各种尺寸/72.png
 
 flag:
-  - name: Chinese
+  - name: Chinese 
     default: true
     icon: flag-cn
     index: /index.html
@@ -36,12 +36,19 @@ menu:
   - name: 关于我的
     icon: far fa-star
     config: my
+
   - name: 学校事务
     icon: fa fa-graduation-cap
     config: qfnu
+
+  - name: 主题魔改
+    icon: fa fa-superpowers
+    config: theme
+
   - name: 常用工具
     icon: far fa-star
     config: hotTools
+
   - name: 其他工具
     icon: fas fa-tools
     submenu:
@@ -57,14 +64,17 @@ my:
     url: https://w1ndys.top
     img: https://blog.w1ndys.top/img/logo/700/whiten.png
     description: 这是我的个人主页
+
   - name: 我的博客
     url: https://blog.w1ndys.top
     img: https://blog.w1ndys.top/img/logo/700/whiten.png
     description: 这是我的个人博客
+
   - name: 曲阜师范大学选课指北
     url: https://xkzb.w1ndys.w1ndys.top
     img: https://blog.w1ndys.top/img/logo/700/whiten.png
     description: 一个免费的公益项目
+
   - name: 曲阜师范大学速通指南
     url: https://blog.w1ndys.top
     img: https://blog.w1ndys.top/img/logo/700/whiten.png
@@ -73,12 +83,121 @@ my:
 qfnu:
   - name: 曲阜师范大学
     url: https://www.qfnu.edu.cn/#/
-    img: https://www.qfnu.edu.cn/favicon.ico
+    img: https://q1.qlogo.cn/g?b=qq&nk=1623557727&s=720#/
     description: 曲阜师范大学官网
+
   - name: 曲阜师范大学网络空间安全学院
     url: https://cyber.qfnu.edu.cn/
-    img: https://q1.qlogo.cn/g?b=qq&nk=3309083558&s=640#/
+    img: https://q1.qlogo.cn/g?b=qq&nk=3309083558&s=720#/
     description: 曲阜师范大学网络空间安全学院官网
+
+  - name: 曲阜师范大学图书馆预约系统
+    url: http://libyy.qfnu.edu.cn/
+    img: http://libyy.qfnu.edu.cn/h5/favicon.ico
+    description: 上自习神器啊
+
+  - name: 知新教育学生端
+    url: https://stu.z-xin.net/
+    img: /img/ico/zx.png
+    description: 网络空间安全学院数字大脑团队开发，强👍
+
+  - name: 曲阜师范大学教务系统
+    url: http://ids.qfnu.edu.cn/authserver/login?service=http%3A%2F%2Fzhjw.qfnu.edu.cn%2Fsso.jsp#/
+    img: https://q1.qlogo.cn/g?b=qq&nk=1623557727&s=720#/
+    description: 曲阜师范大学教务系统登陆入口
+
+  - name: FIF口语训练平台
+    url: https://www.fifedu.com/iplat/html/index.html
+    img: https://tse1-mm.cn.bing.net/th/id/OIP-C.vclTk2wE3zp3riNabHxVeAHaHa?rs=1&pid=ImgDetMain
+    description: 大学生s因之一
+
+  - name: 长江雨课堂
+    url: https://changjiang.yuketang.cn/web#/
+    img: https://ts1.cn.mm.bing.net/th?id=OIP-C.SdEkfsLqEiuiid9hIDgSOQAAAA&w=120&h=120&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2#/
+    description: 大学生s因之一
+
+  - name: Welearn随行课堂
+    url: https://welearn.sflep.com/#/
+    img: https://ts1.cn.mm.bing.net/th/id/R-C.bf7a8f2a92df7e65f2d7218208626a99?rik=PFFBIYxqJNq%2fqw&riu=http%3a%2f%2fimg.kxdw.com%2f2021%2f0802%2f20210802050832841.png&ehk=5Od1t%2fQrzpTCv2LR%2brDSzThBRx34QFRJtFwTKY88Lzs%3d&risl=&pid=ImgRaw&r=0
+    description: 大学生s因之一
+
+  - name: 智慧树网|知到
+    url: https://www.zhihuishu.com/#/
+    img: https://img.onlinedown.net/new_tag/202012/807.jpg
+    description: 刷孔论的
+
+  - name: 智慧树网|知到刷课脚本
+    url: https://blog.w1ndys.top/posts/3af6ecf8#/
+    img: https://img.onlinedown.net/new_tag/202012/807.jpg
+    description: 其实我就是天克左边那位网站
+
+  - name: 超星学习通登陆入口
+    url: https://passport2.chaoxing.com/login/#/
+    img: https://tse1-mm.cn.bing.net/th/id/OIP-C.8_75aRovTdF0Zc3W04GpUQHaHa?rs=1&pid=ImgDetMain
+    description: 大学生致死软件
+
+  - name: 学习通刷课脚本嘎嘎好使
+    url: https://blog.w1ndys.top/posts/12c45bcf
+    img: https://tse1-mm.cn.bing.net/th/id/OIP-C.8_75aRovTdF0Zc3W04GpUQHaHa?rs=1&pid=ImgDetMain
+    description: 其实我就是天克左边那位网站
+
+  - name: PubScholar公益学术平台
+    url: https://pubscholar.cn/
+    img: https://tse1-mm.cn.bing.net/th/id/OIP-C.Gc0kFd2q83ymwBIqNKThXgHaHa?rs=1&pid=ImgDetMain
+    description: 比知网良心
+
+  - name: iWrite写作系统
+    url: https://iwrite.unipus.cn/login#/
+    img: https://ts1.cn.mm.bing.net/th/id/R-C.29b7c637d0e32c2251b15e492fba7cb9?rik=AprJLuudx1%2b%2feg&riu=http%3a%2f%2fimg.mp.itc.cn%2fupload%2f20170703%2f72ba7dee4d2845bc8682b9f601e12c7e_th.jpg&ehk=xlUcy2FYNa%2bDw63l1zYBhbUD62ftqv4YDC7a%2feBSxlg%3d&risl=&pid=ImgRaw&r=0
+    description: 大学生s因之一
+
+  - name: 中国教育干部网络学院
+    url: https://study.enaea.edu.cn/login.do#/
+    img: https://tse4-mm.cn.bing.net/th/id/OIP-C.xMuFA-fQpLDeBXfdZgv5wAAAAA?rs=1&pid=ImgDetMain
+    description: 政治教育系列，爱党爱人民
+
+  - name:
+    url:
+    img:
+    description:
+
+  - name:
+    url:
+    img:
+    description:
+
+theme:
+  - name: 安知鱼的博客
+    url: https://blog.anheyu.com/#/
+    img: https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg#/
+    description: 很厉害的魔改博主
+
+  - name: 猪梨村的博客
+    url: https://zoulicheng.cn/posts/aa661f41.html#/
+    img: https://zoulicheng.oss-cn-shanghai.aliyuncs.com/img/quin.jpg
+    description: 学习一下大佬的魔改美化
+
+  - name: Fomalhaut🥝
+    url: https://www.fomal.cc/categories/%E9%AD%94%E6%94%B9%E6%95%99%E7%A8%8B/#/
+    img: https://sourcebucket.s3.bitiful.net/img/avatar.webp
+    description: Future is now 🍭🍭🍭
+
+  - name:
+    url:
+    img:
+    description:
+  - name:
+    url:
+    img:
+    description:
+  - name:
+    url:
+    img:
+    description:
+  - name:
+    url:
+    img:
+    description:
 
 devTools:
   - name: Github
