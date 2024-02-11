@@ -42,7 +42,7 @@ menu:
     config: qfnu
 
   - name: 主题魔改
-    icon: fa fa-superpowers
+    icon: fa fa-edit
     config: theme
 
   - name: 常用工具
@@ -59,6 +59,7 @@ menu:
         icon: fas fa-blog
         config: myBlog
 
+#############关于我的####################################################################################################
 my:
   - name: 我的主页
     url: https://w1ndys.top
@@ -71,15 +72,16 @@ my:
     description: 这是我的个人博客
 
   - name: 曲阜师范大学选课指北
-    url: https://xkzb.w1ndys.w1ndys.top
+    url: https://xkzb.w1ndys.top
     img: https://blog.w1ndys.top/img/logo/700/whiten.png
     description: 一个免费的公益项目
 
   - name: 曲阜师范大学速通指南
-    url: https://blog.w1ndys.top
+    url: https://stzn.w1ndys.top
     img: https://blog.w1ndys.top/img/logo/700/whiten.png
     description: 另一个免费的公益项目
 
+#############学校事务####################################################################################################
 qfnu:
   - name: 曲阜师范大学
     url: https://www.qfnu.edu.cn/#/
@@ -158,7 +160,7 @@ qfnu:
 
   - name:
     url:
-    img:
+    img: https://img.moehu.org/pics.php?id=gcmm#/
     description:
 
   - name:
@@ -166,6 +168,7 @@ qfnu:
     img:
     description:
 
+#############主题魔改####################################################################################################
 theme:
   - name: 安知鱼的博客
     url: https://blog.anheyu.com/#/
@@ -199,6 +202,8 @@ theme:
     img:
     description:
 
+#############开发工具####################################################################################################
+
 devTools:
   - name: Github
     url: https://github.com/
@@ -208,6 +213,8 @@ devTools:
     url: https://www.csdn.net/
     img: /img/ico/CSDN.ico
     description: 专业开发者社区
+
+#############我的博客####################################################################################################
 
 myBlog:
   - name: 我的博客
@@ -220,17 +227,19 @@ about:
   icon: far fa-heart
   name: 关于本站
 
+#############关于页面####################################################################################################
+
 aboutPage:
   website:
     head: 关于本站
-    html: '<blockquote><p>本站是hexo主题<a href="https://github.com/HCLonely/hexo-theme-webstack">hexo-theme-webstack</a>的demo站。</p></blockquote>'
+    html: '<blockquote><p>本站是由hexo主题<a href="https://github.com/HCLonely/hexo-theme-webstack">hexo-theme-webstack</a>强力驱动的W1ndys自建导航站，旨在收录常用网站，便于日常学习等的使用。</p></blockquote>'
   webmaster:
     head: 关于站长
-    name: HCLonely
-    url: https://blog.hclonely.com/
-    img: /images/logos/myblog.png
-    description: 懒人一个
-    html: '<br /><blockquote><p>本站是<a href="https://github.com/HCLonely">HCLonely</a>基于<a href="https://github.com/WebStackPage/WebStackPage.github.io">WebStackPage</a>项目做的一款<a href="https://hexo.io/">Hexo</a>主题。</p></blockquote>'
+    name: W1ndys
+    url: https://blog.w1ndys.top/
+    img: https://blog.w1ndys.top/img/logo/700/whiten.png
+    description: 欲戴皇冠，必承其重
+    html: ''
 
 busuanzi:
   enable: true
@@ -243,9 +252,12 @@ custom:
     |- # 以下内容插入到<head></head>标签内，可设置多行，注意每行开头至少四个空格
     <!-- 直接添加html内容即可 -->
     <!-- 可设置多行 -->
+    <link rel="stylesheet" type="text/css" href="//api.ecylt.top/css/huli.css">
   body: |- # 以下内容插入到</body>标签之前，可设置多行，注意每行开头至少四个空格
     <!-- 直接添加html内容即可 -->
     <!-- 可设置多行 -->
+    <img id="follow-img" src="//api.ecylt.top/images/huli.gif"/>
+    <script src="//api.ecylt.top/js/huli.js"></script>
 
 js:
   header: /js/header.js
