@@ -93,7 +93,7 @@ qfnu:
 
   - name: 曲阜师范大学图书馆预约系统
     url: http://libyy.qfnu.edu.cn/
-    img: http://libyy.qfnu.edu.cn/h5/favicon.ico
+    img: /img/ico/lib.ico
     description: 上自习神器啊
 
   - name: 知新教育学生端
@@ -129,7 +129,7 @@ qfnu:
   - name: 智慧树网|知到刷课脚本
     url: https://blog.w1ndys.top/posts/3af6ecf8#/
     img: https://img.onlinedown.net/new_tag/202012/807.jpg
-    description: 其实我就是天克左边那位网站
+    description: 其实我就是天克前边那位网站
 
   - name: 超星学习通登陆入口
     url: https://passport2.chaoxing.com/login/#/
@@ -139,7 +139,7 @@ qfnu:
   - name: 学习通刷课脚本
     url: https://blog.w1ndys.top/posts/12c45bcf
     img: https://tse1-mm.cn.bing.net/th/id/OIP-C.8_75aRovTdF0Zc3W04GpUQHaHa?rs=1&pid=ImgDetMain
-    description: 大学生救活脚本
+    description: 大学生救活脚本，天克前面那位
 
   - name: PubScholar公益学术平台
     url: https://pubscholar.cn/
