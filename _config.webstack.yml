@@ -158,15 +158,16 @@ qfnu:
     img: https://tse4-mm.cn.bing.net/th/id/OIP-C.xMuFA-fQpLDeBXfdZgv5wAAAAA?rs=1&pid=ImgDetMain
     description: 政治教育系列，爱党爱人民
 
-  - name:
-    url:
-    img: https://img.moehu.org/pics.php?id=gcmm#/
-    description:
+  - name: ChatGPT
+    url: https://chat.openai.com/
+    img: https://ts1.cn.mm.bing.net/th/id/R-C.44f7b44e144c3e62a7bf26d3ed9dbc25?rik=4mNHzi4yH%2fL%2bGQ&riu=http%3a%2f%2fwww.kuaipng.com%2fUploads%2fpic%2fw%2f2023%2f02-09%2f135403%2fwater_135403_698_698_.png&ehk=D%2bT8GsjcmjFS9uaNJ2JvSOP8R8kbzcmFHLdm8GV69lU%3d&risl=&pid=ImgRaw&r=0
+    description: 大学生的好帮手，但也要注意不要滥用哦~
 
-  - name:
-    url:
-    img:
-    description:
+  # - name:
+  #   url:
+  #   img: 
+  #   description:
+
 
 #############主题魔改####################################################################################################
 theme:
