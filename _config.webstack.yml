@@ -72,12 +72,12 @@ my:
     description: 这是我的个人博客
 
   - name: 曲阜师范大学选课指北
-    url: https://xkzb.w1ndys.top
+    url: https://xkzb.qfnu.w1ndys.top
     img: https://blog.w1ndys.top/img/logo/700/whiten.png
     description: 一个免费的公益项目
 
   - name: 曲阜师范大学速通指南
-    url: https://stzn.w1ndys.top
+    url: https://stzn.qfnu.w1ndys.top
     img: https://blog.w1ndys.top/img/logo/700/whiten.png
     description: 另一个免费的公益项目
 
