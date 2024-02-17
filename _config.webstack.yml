@@ -104,7 +104,7 @@ qfnu:
     description: 网络空间安全学院数字大脑团队开发，强👍
 
   - name: 曲阜师范大学教务系统
-    url: http://ids.qfnu.edu.cn/authserver/login?service=http%3A%2F%2Fzhjw.qfnu.edu.cn%2Fsso.jsp#/
+    url: http://zhjw.qfnu.edu.cn/
     img: https://q1.qlogo.cn/g?b=qq&nk=1623557647&s=640#/
     description: 曲阜师范大学教务系统登陆入口
 
@@ -253,12 +253,9 @@ custom:
     |- # 以下内容插入到<head></head>标签内，可设置多行，注意每行开头至少四个空格
     <!-- 直接添加html内容即可 -->
     <!-- 可设置多行 -->
-    <link rel="stylesheet" type="text/css" href="//api.ecylt.top/css/huli.css">
   body: |- # 以下内容插入到</body>标签之前，可设置多行，注意每行开头至少四个空格
     <!-- 直接添加html内容即可 -->
     <!-- 可设置多行 -->
-    <img id="follow-img" src="//api.ecylt.top/images/huli.gif"/>
-    <script src="//api.ecylt.top/js/huli.js"></script>
 
 js:
   header: /js/header.js
