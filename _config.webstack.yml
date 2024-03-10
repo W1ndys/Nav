@@ -83,6 +83,11 @@ my:
 
 #############学校事务####################################################################################################
 qfnu:
+  - name: U校园/Welearn/智慧树/雨课堂/学习通/问卷星/腾讯问卷等196平台自动答题通杀脚本
+    url: https://blog.w1ndys.top/posts/1ff200e1
+    img: https://blog.w1ndys.top/img/about/avatar.png
+    description: 通杀脚本安装教程
+
   - name: 曲阜师范大学
     url: https://www.qfnu.edu.cn/#/
     img: https://q1.qlogo.cn/g?b=qq&nk=1623557647&s=640#/
@@ -113,9 +118,14 @@ qfnu:
     img: https://tse1-mm.cn.bing.net/th/id/OIP-C.vclTk2wE3zp3riNabHxVeAHaHa?rs=1&pid=ImgDetMain
     description: 大学生s因之一
 
-  - name: 长江雨课堂
-    url: https://changjiang.yuketang.cn/web#/
-    img: https://ts1.cn.mm.bing.net/th?id=OIP-C.SdEkfsLqEiuiid9hIDgSOQAAAA&w=120&h=120&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2#/
+  - name: iWrite写作系统
+    url: https://iwrite.unipus.cn/login#/
+    img: https://ts1.cn.mm.bing.net/th/id/R-C.29b7c637d0e32c2251b15e492fba7cb9?rik=AprJLuudx1%2b%2feg&riu=http%3a%2f%2fimg.mp.itc.cn%2fupload%2f20170703%2f64ba7dee4d2845bc8682b9f601e12c7e_th.jpg&ehk=xlUcy2FYNa%2bDw63l1zYBhbUD62ftqv4YDC7a%2feBSxlg%3d&risl=&pid=ImgRaw&r=0
+    description: 大学生s因之一
+
+  - name: U校园
+    url: https://u.unipus.cn/
+    img: https://img.onlinedown.net/download/202010/132516-5f8145bc966b7.jpg
     description: 大学生s因之一
 
   - name: Welearn随行课堂
@@ -123,13 +133,18 @@ qfnu:
     img: https://ts1.cn.mm.bing.net/th/id/R-C.bf7a8f2a92df7e65f2d7218208626a99?rik=PFFBIYxqJNq%2fqw&riu=http%3a%2f%2fimg.kxdw.com%2f2021%2f0802%2f20210802050832841.png&ehk=5Od1t%2fQrzpTCv2LR%2brDSzThBRx34QFRJtFwTKY88Lzs%3d&risl=&pid=ImgRaw&r=0
     description: 大学生s因之一
 
+  - name: 长江雨课堂
+    url: https://changjiang.yuketang.cn/web#/
+    img: https://ts1.cn.mm.bing.net/th?id=OIP-C.SdEkfsLqEiuiid9hIDgSOQAAAA&w=120&h=120&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2#/
+    description: 大学生s因之一
+
   - name: 智慧树网|知到
-    url: https://www.zhihuishu.com/#/
+    url: https://www.zhihuishu.com/
     img: https://img.onlinedown.net/new_tag/202012/807.jpg
-    description: 刷孔论的
+    description: 刷孔论和在线课的
 
   - name: 智慧树网|知到刷课脚本
-    url: https://blog.w1ndys.top/posts/3af6ecf8#/
+    url: https://blog.w1ndys.top/posts/1ff200e1
     img: https://img.onlinedown.net/new_tag/202012/807.jpg
     description: 其实我就是天克前边那位网站
 
@@ -139,7 +154,7 @@ qfnu:
     description: 大学生致死软件
 
   - name: 学习通刷课脚本
-    url: https://blog.w1ndys.top/posts/12c45bcf
+    url: https://blog.w1ndys.top/posts/1ff200e1
     img: https://tse1-mm.cn.bing.net/th/id/OIP-C.8_75aRovTdF0Zc3W04GpUQHaHa?rs=1&pid=ImgDetMain
     description: 大学生救活脚本，天克前面那位
 
@@ -147,11 +162,6 @@ qfnu:
     url: https://pubscholar.cn/
     img: https://tse1-mm.cn.bing.net/th/id/OIP-C.Gc0kFd2q83ymwBIqNKThXgHaHa?rs=1&pid=ImgDetMain
     description: 比知网良心
-
-  - name: iWrite写作系统
-    url: https://iwrite.unipus.cn/login#/
-    img: https://ts1.cn.mm.bing.net/th/id/R-C.29b7c637d0e32c2251b15e492fba7cb9?rik=AprJLuudx1%2b%2feg&riu=http%3a%2f%2fimg.mp.itc.cn%2fupload%2f20170703%2f64ba7dee4d2845bc8682b9f601e12c7e_th.jpg&ehk=xlUcy2FYNa%2bDw63l1zYBhbUD62ftqv4YDC7a%2feBSxlg%3d&risl=&pid=ImgRaw&r=0
-    description: 大学生s因之一
 
   - name: 中国教育干部网络学院
     url: https://study.enaea.edu.cn/login.do#/
@@ -165,9 +175,8 @@ qfnu:
 
   # - name:
   #   url:
-  #   img: 
+  #   img:
   #   description:
-
 
 #############主题魔改####################################################################################################
 theme:
@@ -240,7 +249,7 @@ aboutPage:
     url: https://blog.w1ndys.top/
     img: https://blog.w1ndys.top/img/logo/700/whiten.png
     description: 欲戴皇冠，必承其重
-    html: ''
+    html: ""
 
 busuanzi:
   enable: true
