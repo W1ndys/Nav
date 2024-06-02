@@ -109,7 +109,7 @@ qfnu:
     description: 网络空间安全学院数字大脑团队开发，强👍
 
   - name: 曲阜师范大学教务系统
-    url: http://zhjw.qfnu.edu.cn/
+    url: http://ids.qfnu.edu.cn/authserver/login?service=https%3A%2F%2Fzhjw.qfnu.edu.cn%2Fsso.jsp#/
     img: https://q1.qlogo.cn/g?b=qq&nk=1623557647&s=640#/
     description: 曲阜师范大学教务系统登陆入口
 
